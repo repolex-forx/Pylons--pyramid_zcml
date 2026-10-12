@@ -1,0 +1,11 @@
+{
+  "org": "Pylons",
+  "repo": "pyramid_zcml",
+  "versions": [
+    {
+      "commit": "b7740dc319482ab83de874e3bc371c25a4563e19",
+      "tag": "",
+      "parsed_at": "2026-10-12T02:02:31.272422+00:00"
+    }
+  ]
+}
