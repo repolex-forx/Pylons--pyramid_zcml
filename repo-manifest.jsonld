@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_zcml/commit/b7740dc319482ab83de874e3bc371c25a4563e19",
       "git:hexsha": "b7740dc319482ab83de874e3bc371c25a4563e19",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_zcml/commit/65d2cbf695efd705fa51235b1f9a7b3796fc23c7",
